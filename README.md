@@ -12,7 +12,7 @@
 * Install Docker
 * Create an image 
 <br/>`docker build . --tag=nodeapp:latest`
-* Запустить контейнер
+* Run container
 <br/>`docker run -p 4200:4200 nodeapp:latest`
 
 
